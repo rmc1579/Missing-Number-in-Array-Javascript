@@ -2,6 +2,7 @@
 Missing Number in Array using Javascript
 
 Fork missing_number_array.js for code
+You can use test.html to test code if you need to.
 
 // Missing Number in Array  
 var a= [1,2,3,4,5,7,8,9,10];
